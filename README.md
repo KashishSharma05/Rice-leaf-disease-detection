@@ -83,3 +83,13 @@ In GANs, there are two networks: the generator (whichcreates fake images) and th
 •⁠  ⁠*CycleGAN*: Useful for data augmentation and disease simulation
 
 <img width="560" height="270" alt="image" src="https://github.com/user-attachments/assets/4ce4922e-7c4f-4520-b24b-ba4b081286d3" />
+
+
+## Contributors  
+
+- **Kashish Sharma** – Image preprocessing , Image Segmentation ,CycleGAN
+- **mail id:-** **s.kashishsharma06@gmail.com**
+- 
+- **Taswi Shahpar** – Image preprocessing , Image Segmentation ,CycleGAN
+- **mail id:-** **taswishahpar1111@gmail.com**
+
